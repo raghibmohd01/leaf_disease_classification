@@ -34,6 +34,10 @@ diseased crops will be detected from the outward physical appearance, which show
 symptoms of physiological abnormality. The purpose is to deliver an advanced technique to
 achieve high accuracy, cost effective and robust disease prediction systems.
 
+![class_cgm](https://user-images.githubusercontent.com/38405974/147368044-fe2428bb-d5e8-45bd-8c71-36e550b7ebb9.png)
+
+
+
 ![Screenshot 2021-12-22 204433](https://user-images.githubusercontent.com/38405974/147367949-59140671-c48f-426b-afd2-6ddf639d3856.jpg)
 
 
