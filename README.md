@@ -33,3 +33,11 @@ data will reduce the manual dependency for identification of crop disease diagno
 diseased crops will be detected from the outward physical appearance, which shows up the
 symptoms of physiological abnormality. The purpose is to deliver an advanced technique to
 achieve high accuracy, cost effective and robust disease prediction systems.
+
+![Screenshot 2021-12-22 204433](https://user-images.githubusercontent.com/38405974/147367949-59140671-c48f-426b-afd2-6ddf639d3856.jpg)
+
+
+![Screenshot 2021-12-22 222359](https://user-images.githubusercontent.com/38405974/147367931-182d94f5-90ae-4372-b9d8-b2189ec0c109.jpg)
+
+
+
